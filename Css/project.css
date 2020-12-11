@@ -1,0 +1,18 @@
+
+        .w3-bar{
+            padding-left: 15%;
+            padding-top: 3em;
+        }
+        .w3-bar>a{
+            margin-left: 6%;
+        }
+        .on_top{
+           
+            padding-top: 40%;
+        }
+        .bar-medium{
+          padding-left: 3em;
+        }
+        .bar-medium>a{
+          margin-left: 1em;
+        }

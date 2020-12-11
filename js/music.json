@@ -1,0 +1,350 @@
+[
+    {
+        "id": "ab1",
+        "name": "Believe",
+        "pic": "ab-Believe.jpg",
+        "cat": "album",
+        "price":"1200",
+        "type":"ALBUM",
+        "description": "Believe marks Justin Timberlake's return to music since his 2018 album Man Of The Woods. Last December, the male singer made noise when rumors of adultery began to break out. But he showed remorse when he had inflicted unintentional harm on his woman. <p>Meanwhile, this is Meek Mill's second new song after Letter To The Nipsey released on the 2020 Grammy Awards. Recently, the male rapper had an argument on Twitter with Nicki Minaj, but it was great because in the end, the turmoil in life did not distract him from music.</p>"
+    },
+    {
+        "id": "ab2",
+        "name": "Chromatica",
+        "pic": "ab-chromatica_lady_gaga.jpg",
+        "cat": "album",
+        "price":"1500",
+        "type":"ALBUM",
+        "description": "Chromatica is the sixth studio album by American singer Lady Gaga. It was originally scheduled to be released on April 10, 2020 but release of the album was delayed until May 29, 2020 due to the complicated situation of the COVID-19 pandemic. Chromatica will be released as a follow-up album after Joanne's fifth studio album (2016), and her first full release since the soundtrack album for the movie Star Flash (2018)."
+    },
+    {
+        "id": "ab3",
+        "name": "Lover",
+        "pic": "ab-lover.jpg",
+        "cat": "album",
+        "price":"1500",
+        "type":"ALBUM",
+        "description": "Lover is the seventh studio album by American singer-songwriter Taylor Swift. It was released on August 23, 2019 by Republic Records. As production director, Swift collaborated with producers such as Jack Antonoff, Joel Little, Louis Bell, Frank Dukes and Sounwave to create the album. Described by Swift as a love letter to love itself, Lover honors the ups and downs in love and contains a brighter, more cheerful shade than the gloomy melody of her previous album, Reputation (2017 ). On the music side, it is a pop, pop rock, electropop and synth-pop soundtrack with influences from country music, dream pop, pop punk, funk and R&B."
+    },
+    {
+        "id": "ab4",
+        "name": "Immortal",
+        "pic": "ab-Michael_jackson_immortal.jpg",
+        "cat": "album",
+        "price":"1300",
+        "type":"ALBUM",
+        "description": "Immortal is a remix album of songs by American recording artist Michael Jackson, starring The Jackson 5 / The Jacksons, and released on November 21, 2011 by Epic Records. A remix of the songs used as the background music for Cirque du Soleil's stage on the Michael Jackson: Immortal World Tour tour, made its debut on October 2, 2011 in Montreal, while there was a show. permanent in Las Vegas."
+        
+    },
+    {
+        "id": "ab5",
+        "name": "Music of the Sun",
+        "pic": "ab-Music of the Sun.jpg",
+        "cat": "album",
+        "price":"1300",
+        "type":"ALBUM",
+        "description": "Music of the Sun is the debut studio album of the original Barbados Rihanna R&B singer. The album was released on August 30, 2005 by Def Jam label. The album belongs to dance-pop, dancehall, reggae and R&B ballad genres, but was released to the market under the reggae genre.Music of the Sun is the debut studio album by Barbados Rihanna-born R&B singer. The album was released on August 30, 2005 by Def Jam label. The album belongs to dance-pop, dancehall, reggae and R&B ballad genres, but was released to the market under the reggae genre."
+        
+    },
+    {
+        "id": "ab6",
+        "name": "Royalty",
+        "pic": "ab-Royalty_Chris_Brown.jpg",
+        "cat": "album",
+        "price":"1400",
+        "type":"ALBUM",
+        "description": "Royalty is the seventh studio album by American singer Chris Brown. It was released on December 18, 2015, by CBE Entertainment and RCA Records. The album serves as the follow-up to his sixth album X (2014). <p>Royalty debuted at number three on the US Billboard 200, selling 184,000 units (162,000 in pure album sales) in its first week, marking an improvement over Brown's last three studio albums. It also became his seventh solo album consecutive top ten debut in the United States. As of March 2016, Royalty has sold 360,000 copies in the US. It was certified Platinum by the Recording Industry Association of America (RIAA), for combined equivalent units (including streaming and track-equivalent units) of 1,000,000 units.</p>"
+        
+    },
+    {
+        "id": "ab7",
+        "name": "Invisible Touch",
+        "pic": "ab-invisible Touch .jpg",
+        "cat": "album",
+        "price":"1000",
+        "type":"ALBUM",
+        "description": "Invisible Touch is the 13th studio album by the English rock band Genesis, released on 6 June 1986 by Atlantic Records in the United States and 9 June 1986 by Charisma and Virgin Records in the United Kingdom. <p>After taking a break in group activity for each member to continue with their solo projects in 1984, the band reconvened in October 1985 to write and record Invisible Touch with engineer and producer Hugh Padgham. As with their previous album, it was written entirely through group improvisations and no material developed prior to recording was used.</p>"
+        
+    },
+    {
+        "id": "ab8",
+        "name": "Like A Virgin",
+        "pic": "ab-Like A Virgin.jpg",
+        "cat": "album",
+        "price":"1100",
+        "type":"ALBUM",
+        "description": "Like a Virgin is the second studio album by American singer and songwriter Madonna, released on November 12, 1984, by Sire Records. Following the success of her self-titled debut album, Madonna wanted to become the record producer of her next album. However, her label was not ready to give her the artistic freedom and she chose Nile Rodgers instead to produce the album due to his work with David Bowie. Madonna wrote six songs on the record, five of which feature Steve Bray as a co-writer. The album was recorded at Power Station Studio in New York at a quick pace. Rodgers enlisted the help of his former Chic bandmates Bernard Edwards, who was the bassist, and Tony Thompson, who played drums. Jason Corsaro, the record's audio engineer, persuaded Rodgers to use digital recording, a new technique introduced at that time."
+        
+    },
+    {
+        "id": "ab9",
+        "name": "Off The Wall",
+        "pic": "ab-Off The Wall .jpg",
+        "cat": "album",
+        "price":"1200",
+        "type":"ALBUM",
+        "description": "Off the Wall is the fifth solo studio album by American singer Michael Jackson, released on August 10, 1979, by Epic Records. It was Jackson's first album released through Epic Records, the label he recorded under until his death in 2009, and the first produced by Quincy Jones, whom he met while working on the 1978 film The Wiz. Several critics observed that Off the Wall was crafted from disco, pop, funk, R&B, soft rock and Broadway ballads. Its lyrical themes include escapism, liberation, loneliness, hedonism and romance. The album features songwriting contributions from Stevie Wonder, Paul McCartney, Rod Temperton, Tom Bahler, and David Foster, alongside three tracks penned by Jackson himself."
+        
+    },
+    {
+        "id": "ab10",
+        "name": "Parallel Lines",
+        "pic": "ab-Parallel Lines .jpg",
+        "cat": "album",
+        "price":"1300",
+        "type":"ALBUM",
+        "description": "Parallel Lines is the third studio album by American rock band Blondie. It was released in September 1978, by Chrysalis Records to international commercial success. The album reached No. 1 in the United Kingdom in February 1979 and proved to be the band's commercial breakthrough in the United States, where it reached No. 6 in April 1979. In Billboard magazine, Parallel Lines was listed at No. 9 in the top pop albums year-end chart of 1979. The album spawned several successful singles, notably the international hit Heart of Glass."
+        
+    },
+    {
+        "id": "ab11",
+        "name": "Smile",
+        "pic": "ab-Smile.jpg",
+        "cat": "album",
+        "price":"1400",
+        "type":"ALBUM",
+        "description": "Smile is an unfinished album by the American rock band the Beach Boys that was planned to follow their 11th studio album Pet Sounds (1966). It was to be a twelve-track concept LP assembled from short, interchangeable musical fragments similar to the group's 1966 single Good Vibrations. Instead, the album was shelved and the group released a downscaled version, Smiley Smile, in September 1967. Over the next four decades, few of the original Smile tracks were officially released, and the project came to be regarded as the most legendary unreleased album in popular music history."
+        
+    },
+    {
+        "id": "ab12",
+        "name": "Songs in the key of life",
+        "pic": "ab-Songs_in_the_key_of_life.jpg",
+        "cat": "album",
+        "price":"1200",
+        "type":"ALBUM",
+        "description": "Songs in the Key of Life is the eighteenth album by American singer, songwriter and musician Stevie Wonder. It was released on September 28, 1976 by Tamla Records, a division of Motown. The double album has been regarded by music journalists as the culmination of Wonder's classic period of recording. The album was recorded primarily at Crystal Sound studio in Hollywood, with some sessions recorded at the Record Plant in Hollywood, the Record Plant in Sausalito, and The Hit Factory in New York City; final mixing was conducted at Crystal Sound."
+        
+    },
+    {
+        "id": "ab13",
+        "name": "Red",
+        "pic": "ab-Taylor Swift Red.jpg",
+        "cat": "album",
+        "price":"1500",
+        "type":"ALBUM",
+        "description": "Red is the fourth studio album by American singer-songwriter Taylor Swift. It was released on October 22, 2012, by Big Machine Records. Inspired by past romantic relationships evoking intense, tumultuous red emotions that Swift was experiencing during the conception of the project, Red touches on the themes of romance and heartbreak, but represents a mature perspective, while exploring the pressure of being in the public eye. Red is a pop, country, and rock album that experiments with arena rock, alternative rock, dance, dubstep, electronic, folk, and heartland rock; many critics called it Swift's dip into pop, while others regarded it her venture beyond traditional country styles."
+        
+    },
+    {
+        "id": "ab14",
+        "name": "Warm your heart",
+        "pic":"ab-warm-your-heart.jpg",
+        "cat": "album",
+        "price":"1400",
+        "type":"ALBUM",
+        "description": "Warm Your Heart is a 1991 album released by American R&B/soul singer Aaron Neville. It was Neville's second album and it features the singles Everybody Plays the Fool, Somewhere, Somebody and Close Your Eyes. The Close Your Eyes single also featured album producer Linda Ronstadt on guest vocals. The pair had previously collaborated on the songs Don't Know Much, All My Life, and When Something Is Wrong with My Baby.<p>The album utilises many guest vocalists, musicians and session musicians. Producer Linda Ronstadt sings on four songs on the album and Grammy Award winning Rita Coolidge sings on three. Other guests include slide guitarist Ry Cooder, saxophonist Plas Johnson, Bob Seger, Dr. John, Bob Glaub and Dean Parks.</p>"
+        
+    },
+    {
+        "id": "ab15",
+        "name": "You Are Not Alone",
+        "pic": "ab-You_Are_Not_Alone.jpg",
+        "cat": "album",
+        "price":"1300",
+        "type":"ALBUM",
+        "description": "You Are Not Alone is a song by American singer Michael Jackson from his ninth studio album HIStory: Past, Present and Future, Book I (1995). It was released on August 15, 1995 as the second single from the album. The song was re-released in 2006, as part of Jackson's Visionary: The Video Singles collection box set, where it re-entered at number 30 in the UK Singles Chart in 2006. The pop and R&B ballad was written by American R&B singer R. Kelly for Michael Jackson in response to difficult times in his own personal life. Kelly sent a bare demo tape to Jackson, who liked the song and decided to produce it with him in his Chicago studio. Jackson's interest in the song was also linked to recent events in his personal life."
+        
+    },
+
+    {
+        "id": "cd1",
+        "name": "Born This Way ",
+        "pic": "cd-Born_This_Way_cua_Lady_Gaga.png",
+        "cat": "cd",
+        "price":"800",
+        "type":"CD",
+        "description": "Born This Way is the second studio album by American singer-songwriter Lady Gaga. [1] The album was released worldwide by Interscope Records on May 23, 2011. Born This Way was inspired by a variety of modern social themes, several of which are on the album. Addressing sensitive issues such as freedom, attitude, death, politics, relationships, partying, fantasy, sex, fashion and religion. In terms of music, the album is highly regarded, influenced by contemporary pop music from the 1980s to 1990s, but also garnered considerable attention from professionals as Gaga knows how to combine many other musical genres. each piece, including the use of difficult genres such as heavy metal, opera and jazz."
+        
+    },
+    {
+        "id": "cd2",
+        "name": "Fine by me",
+        "pic": "cd-Chris_Brown_Fine_by_Me.jpg",
+        "cat": "cd",
+        "price":"700",
+        "type":"CD",
+        "description": "Fine by Me is a song by American recording artist Chris Brown on his seventh studio album, Royal. It was released as a single on November 27, 2015, by RCA Records. On October 7, 2016, he posted on his Instagram account a video in which he lip-synced a piece of Fine by Me. The song was released, with pre-order on iTunes on November 26, 2015. On the following day, it was officially released as the album's fourth single."
+        
+    },
+    {
+        "id": "cd3",
+        "name": "Rockin Robin",
+        "pic": "cd-Michael-Jackson-Rockin-Robin.jpg",
+        "cat": "cd",
+        "price":"600",
+        "type":"CD",
+        "description": "Rockin 'Robin is a song composed by Leon René and recorded by Bobby Day in 1958. This is Day's only hit single, ranking second on the Billboard Hot 100.Michael Jackson records and releases a cover version. Rockin 'Robin in 1972, taken from his 1971 solo debut titled Got to Be There. This is the biggest hit from the clbum, ranking second on the Hot 100 and R&B charts."
+        
+    },
+    {
+        "id": "cd4",
+        "name": "Never Say Nerver",
+        "pic": "cd-Never_Say_Never_Single.jpg",
+        "cat": "cd",
+        "price":"500",
+        "type":"CD",
+        "description": "Never Say Never is a song by Canadian recording artist Justin Bieber. The song is used as the theme song for The Karate Kid, and features rap interludes from the film's star, Jaden Smith. Originally a risque demo with sexual lyrics performed by American singer Travis Garland, it was written and produced by The Messengers, and Omarr Rambert. However, Bieber was tapped to record the song for the film. He re-wrote the song with the original artists along with Jaden Smith and his vocal producer Kuk Harrell, to feature inspirational lyrics to foil the film's theme. The song contains R&B and pop elements while merging hip-hop."
+        
+    },
+    {
+        "id": "cd5",
+        "name": "What's My Name",
+        "pic": "cd-Rihanna_What_s_My_Name_.jpg",
+        "cat": "cd",
+        "price":"650",
+        "type":"CD",
+        "description": "What's My Name is a song by Barbados recording artist Rihanna featuring Canadian rapper Drake on her fifth studio album, Loud (2010). It was released on October 26, 2010 as the second single from the album by Def Jam Recordings and SRP Music Group. The song is co-written by Drake, Ester Dean, Traci Hale with two members Mikkel S. Eriksen and Tor Erik Hermansen of the StarGate production team, familiar collaborators throughout her career as well as responsible. produced it with Kuk Harrell. What's My Name marks the first official collaboration between Rihanna and Drake, and they will continue to participate in each other's works in the future, including Take Care (2011), Work (2016), and Too Good (2016). This is an electronic and R&B version that deals with the romantic relationship of a couple, which incorporates topics related to romance and sex."
+        
+    },
+    {
+        "id": "cd6",
+        "name": "We Are Never Ever Getting Back Together",
+        "pic": "cd-We_Are_Never_Ever_Getting_Back_Together.jpg",
+        "cat": "cd",
+        "price":"650",
+        "type":"CD",
+        "description": "We Are Never Ever Getting Back Together is a song recorded by American singer-songwriter Taylor Swift. The song is on her fourth studio album, Red (2012), and was composed by Taylor Swift, Max Martin and Shellback, in which Max Martin and Shellback are also responsible for producing the music for the song. This is the first single from Red, which was released on online music distribution sites on August 14, 2012 by Big Machine Records. In terms of music, We Are Never Ever Getting Back Together is a powerful pop-influenced song she has been experimenting with on her new album; As for the lyrics, the song describes Swift's depression when her ex wanted to heal the relationship between the two. Rolling Stone magazine ranked the song number two among the best songs of 2012, while on Time magazine's year-end poll it ranked fourth. We Are Never Ever Getting Back Together received a Grammy Award nomination in Record of the Year category. In addition, the song is nominated for the Public Choice Award for Favorite Song of the Year category."
+        
+    },
+    {
+        "id": "cd7",
+        "name": "All-i-want-for-Christmas-is-you",
+        "pic": "cd-all-i-want-for-christmas-is-you.jpg",
+        "cat": "cd",
+        "price":"750",
+        "type":"CD",
+        "description": "All I Want for Christmas Is You is a Christmas song by American singer-songwriter Mariah Carey. She co-wrote and co-produced it with Walter Afanasieff for her fourth studio album and first holiday album, Merry Christmas (1994). Columbia Records released it as the lead single from the album on October 28, 1994. The track is an uptempo love song that includes bell chimes, heavy back-up vocals, and synthesizers.<p>Upon release, All I Want for Christmas Is You was critically acclaimed, with The New Yorker calling it one of the few worthy modern additions to the holiday canon. The song remains Carey's biggest international success, reaching number one in numerous countries, including Australia, Canada, France, Germany, and the United States. In 2019, the song topped the Billboard Hot 100 for the first time, 25 years after its original release, thus breaking several records, including the longest trip to number one. With an estimated sales of over 16 million copies, it remains the best selling Christmas single by a female artist and one of the best-selling singles of all time. As of 2017, the song was reported to have earned 60 million in royalties.</p>"
+        
+    },
+    {
+        "id": "cd8",
+        "name": "Faded",
+        "pic": "cd-faded.jpg",
+        "cat": "cd",
+        "price":"800",
+        "type":"CD",
+        "description": "Faded is a song by Norwegian record producer and DJ Alan Walker with vocals provided by Norwegian singer Iselin Solheim. The single was originally set to be released on 25 November 2015, but was postponed to 3 December 2015. The song was highly successful, peaking in the top 10 in most of the countries it charted in, and reached the top spot in more than 10 countries. It is currently the 21st most viewed video on YouTube, with over 2.9 billion views, 21 million likes and 564 thousand dislikes as of 25 November 2020, as well as being the 29th most streamed song on Spotify, with over 1 billion streams as of February 2020.Walker debuted a live performance of Faded with Solheim and string support on 27 February 2016 at X Games Oslo 2016. The performance was aired live on Norwegian television."
+        
+    },
+    {
+        "id": "cd9",
+        "name": "Havana",
+        "pic": "cd-havanna.jpg",
+        "cat": "cd",
+        "price":"750",
+        "type":"CD",
+        "description": "Havana is a song recorded by Cuban-American singer Camila Cabello featuring guest vocals from American rapper Young Thug. It was released on August 3, 2017, along with OMG, from her solo debut album, Camila (2018). In August 2017, it was released as a promotional single, then was serviced to radio on September 8, 2017 as a single. Due to its rising success, Havana later became the official lead single of Camila, replacing Crying in the Club. In November 2017, a remix version of the song with Puerto Rican rapper Daddy Yankee was uploaded to Cabello's YouTube page. The first verse of the remix is sung in Spanish while Daddy Yankee replaces Young Thug's verse."
+        
+    },
+    {
+        "id": "cd10",
+        "name": "Ice cream",
+        "pic": "cd-icecream.jpg",
+        "cat": "cd",
+        "price":"650",
+        "type":"CD",
+        "description": "Ice Cream debuted and peaked at number 13 on the US Billboard Hot 100, becoming Blackpink's first single to peak inside the top-twenty of the chart and subsequently becoming the longest-charting song by an all-female Korean act on the Hot 100. The song peaked in the top-10 in Singapore, Hungary, and South Korea, and also entered the top-40 in 15 other countries. An official music video for the song was released on August 28, 2020. It was nominated for Best Collaboration at the MTV Europe Music Award and Music Video of 2020 at the People's Choice Awards."
+        
+    },
+    {
+        "id": "cd11",
+        "name": "A little touch of Schmilsson in the night",
+        "pic": "cd-little touch.jpg",
+        "cat": "cd",
+        "price":"500",
+        "type":"CD",
+        "description": "A Little Touch of Schmilsson in the Night is an album of classic 20th-century standards sung by American singer Harry Nilsson. The album was arranged by Frank Sinatra's arranger Gordon Jenkins, and produced by Derek Taylor. In 1988, it was reissued as A Touch More Schmilsson in the Night, containing an intro and outro (studio chatter) and six additional songs from the recording sessions.This album is notable in being a standards album produced a decade before such works started to become popular again. The title is an allusion to Shakespeare's Henry V, Act 4, in which the Chorus refers to Henry's nocturnal visit to his troops as a little touch of Harry in the night."
+        
+    },
+    {
+        "id": "cd12",
+        "name": "Love me like you do",
+        "pic": "cd-love me like u do.jpg",
+        "cat": "cd",
+        "price":"550",
+        "type":"CD",
+        "description": "Love Me like You Do is a song recorded by English singer Ellie Goulding for the soundtrack to the film Fifty Shades of Grey (2015). The song was written by Savan Kotecha, Ilya Salmanzadeh, Tove Lo, Max Martin and Ali Payami; the latter two also produced it. Goulding was selected to provide vocals to the track. It was released on 7 January 2015 as the second single from the soundtrack. The song was also included on Goulding's third studio album, Delirium (2015).Love Me like You Do is a mid-tempo electropop power ballad, with instrumentation consisting of massive synths and crushing drums. Lyrically, similar to the film's theme, the song talks about the uncontrollable feeling of falling in love and being seduced by someone whose touch leaves her begging for more, even when it hurts. It received acclaim from music critics, who praised Goulding's soft vocals and the song for being sultry and grandiose. The song earned Goulding her first Grammy Award nomination for Best Pop Solo Performance, while the songwriters were nominated for the Grammy Award for Best Song Written for Visual Media, the Golden Globe Award for Best Original Song, and the Broadcast Film Critics Association Award for Best Song."
+        
+    },
+    {
+        "id": "DVD1",
+        "name": "Good girl gone bad",
+        "pic": "dvd-good girl gone bad.jpg",
+        "cat":"dvd",
+        "price":"700",
+        "type":"DVD",
+        "description": "Good Girl Gone Bad is the third studio album by Barbados recording artist Rihanna, released on May 31, 2007, by Def Jam Recordings and SRP Records. On this album, Rihanna has collaborated with various producers, including Christopher Stewart, Terius Nash, Neo da Matrix, Timbaland, Carl Sturken, Evan Rogers and StarGate. <p>Inspired by Brandy Norwood Afrodisiac's fourth studio album (2004), Good Girl Gone Bad is a pop, dance-pop, and R&B sound album with influences from 1980s music. Described as A breakthrough in Rihanna's career, it represented a transformation from the Caribbean sounds of her two previous studio albums, Music of the Sun (2005) and A Girl like Me (2006). In addition to the change in music, the album also marked a new image of the female singer from an innocent girl to someone with a sharper look and a sexier appearance.</p>"
+        
+    },
+    {
+        "id": "DVD2",
+        "name": "Sour-candy",
+        "pic": "dvd-sour-candy.jpg",
+        "cat": "dvd",
+        "price":"750",
+        "type":"DVD",
+        "description": "Sour Candy is a song by American singer Lady Gaga and South Korean girl group Blackpink. It was released in a download and streaming format as the first promotional single from Gaga's sixth studio album, Chromatica, on May 28, 2020. This is a dance song. -pop, electropop, bubblegum pop and deep house combined with dance. Its lyrics show Gaga and Blackpink flirting in English and Korean, using sour candies as a metaphor to illustrate how they act in a relationship. on April 22, 2020, when Gaga uploaded the track list of her Chromatica album. The song's release was announced by Gaga via her social media platforms the day before the release of Chromatica. The song was released without any prior notice after an internet leak appeared on Twitter the night before."
+        
+    },
+    {
+        "id": "DVD3",
+        "name": "Monster",
+        "pic": "dvd-monster.jpg",
+        "cat": "dvd",
+        "price":"600",
+        "type":"DVD",
+        "description": "The Monster is a song from the album The Marshall Mathers LP 2 (2013) by American rapper Eminem with the guest appearance of Barbadian singer Rihanna. The song is written by Bebe Rexha, Jon Bellion and AKS from Prosper, with the production by Frequency. The Monster marks the fourth collaboration between Eminem and Rihanna, after Love the Way You Lie (2010), the sequel Love the Way You Lie (Part II) (2010) and Numb (2012). The Monster was released on October 29, 2013, as the fourth single on the album. The lyrics describe Rihanna about to face her inner demons while Eminem ponders the negative effects of her popularity."
+        
+    },
+    {
+        "id": "DVD4",
+        "name": "Scream",
+        "pic": "dvd-scream.jpg",
+        "cat": "dvd",
+        "price":"650",
+        "type":"DVD",
+        "description": "Scream is a compilation album by American singer Michael Jackson, released on September 29, 2017. The album compiles songs around a Halloween theme. It is the eleventh release by Sony and/or Motown since Jackson's death on June 25, 2009.A 17-second teaser was released on Michael Jackson's official Facebook page and YouTube Vevo page on September 6, 2017, just after a 3D version of the 1983 Thriller short film premiered in Venice, Italy. Later that day, the album was classified as a Halloween album with mysterious theme songs. The track Blood on the Dance Floor x Dangerous (The White Panda Mash-up) became available for purchase in digital format. Another track, Thriller (Steve Aoki Midnight Hour Remix) was also released digitally on September 29. However, this remix was not included on the album."
+        
+    },
+    {
+        "id": "DVD5",
+        "name": "Wolves",
+        "pic": "dvd-Selena_Gomez_and_Marshmello_Wolves.jpg",
+        "cat": "dvd",
+        "price":"700",
+        "type":"DVD",
+        "description": "Wolves is a song by American singer Selena Gomez and music producer Marshmello. The song was written by Gomez, Ali Tamposi, Louis Bell, Brian Lee, and its producers Marshmello and Andrew Watt. The song was released by Interscope Records on October 25, 2017.Commercially, the song has topped the charts in Latvia, Poland and Serbia while reaching the top 10 in Australia, Austria, Belgium, Canada, the Czech Republic, Denmark, Finland, Hungary, Ireland, Lebanon, Malaysia, the Netherlands, New Zealand, Norway, Portugal, Slovakia, Sweden, Switzerland and the United Kingdom; as well as the top 20 in Germany and the United States. It was also the second-most successful electronic song of 2018 in the US. The single is certified Platinum or higher in fifteen countries worldwide, including Diamond in Brazil."
+        
+    },
+    {
+        "id": "DVD6",
+        "name": "Beautiful Eyes",
+        "pic": "dvd-Beautiful Eyes.jpg",
+        "cat": "dvd",
+        "price":"550",
+        "type":"DVD",
+        "description": "Beautiful Eyes is the second extended play (EP) by American singer-songwriter Taylor Swift. The EP was released on July 15, 2008 by Big Machine Records exclusively to Walmart stores in the United States and online. The limited release EP has a primarily country pop sound and features alternate versions of tracks from her self-titled debut album (2006), and two original tracks, title track and I Heart ?, which Swift had composed as early as 2003. I Heart ? was previously released for digital download with the purchase of the Best Buy exclusive version CD of Swift's self-titled debut album in 2006. A DVD, featuring music videos of singles from her self-titled debut album, is also included on the physical release of the EP."
+        
+    },
+    {
+        "id": "TK1",
+        "name": "Lover fest",
+        "pic": "tk-lover fest.jpg",
+        "cat": "tk",
+        "price":"100",
+        "type":"Ticket",
+        "description": "Lover Fest is the planned sixth concert tour and first music festival tour[1] by American singer-songwriter Taylor Swift, in support of her seventh studio album, Lover (2019). The tour was originally scheduled set to begin on April 5, 2020, in Atlanta, Georgia, and conclude in Foxborough, Massachusetts on August 1 of the same year. In April 2020, following growing concerns over the COVID-19 pandemic, all festival dates were cancelled, while the stadium shows in Brazil and the United States were postponed to 2021."
+        
+    },
+    {
+        "id": "TK2",
+        "name": "World tour",
+        "pic": "tk-world tour.jpg",
+        "cat": "tk",
+        "price":"150",
+        "type":"Ticket",
+        "description": "The Justin Bieber World Tour 2021 (formerly Changes Tour) is the upcoming fourth concert tour by Justin Bieber, in promotion of his fifth studio album, Changes. The tour was set to begin on May 14, 2020, in Seattle, but the tour was postponed amid the ongoing COVID-19 pandemic. Every date was be rescheduled and Justin Bieber World Tour 2021 stars on June 2nd, 2021."
+        
+    }
+]
